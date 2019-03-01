@@ -10,9 +10,11 @@ https://en.wikipedia.org/wiki/Coefficient_of_determination
 https://liam.page/2017/03/25/bias-variance-tradeoff/
 3.解释偏差和方差：
 https://yuchenchen.gitbook.io/machine-learning-yearning/chapter20
+4.交叉验证：
+https://zhuanlan.zhihu.com/p/24825503
 
 ### 项目简介
-利用马萨诸塞州波士顿郊区的房屋信息数据训练和测试一个模型，使用决策树算法通过波数据构建一个最佳回归模型，用来预测房屋的最佳销售价格，并使用网格搜索与交叉验证确定模型最佳参数。
+利用马萨诸塞州波士顿郊区的房屋信息数据训练和测试一个模型，使用决策树算法对数据构建一个最佳回归模型，用来预测房屋的最佳销售价格，并使用网格搜索与交叉验证确定模型最佳参数。
 
 ### 安装
 
